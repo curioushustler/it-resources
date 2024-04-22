@@ -12,4 +12,5 @@ This repo consists of community contributed random IT resources that'd prove use
   1. Data/Business Analytics
    - Chennai Data Circle
     - Link: https://www.linkedin.com/company/chennai-data-circle/
+    - This is a community created specifically for data/business analytics enthusiasts /professionals. Job opportunities in these fields are updated in the community regularly
 </details>
